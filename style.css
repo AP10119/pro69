@@ -1,0 +1,27 @@
+#Menubar{
+    text-align: center;
+        
+}
+li{
+    color: white;
+    margin-right: 20px;
+    margin-top: 15px;
+}
+#school{
+    width: 100%;
+    height: 400;
+}
+.movie_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+#photoachieve{
+    padding-bottom: 10px;
+}
+movie_head i{
+    float: right;
+}
